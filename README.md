@@ -147,9 +147,6 @@ python manage.py runserver
 4. Access the dashboard:  
 Open your browser and go to: `http://127.0.0.1:8000`
 
-![Dashboard Screenshot](imgs/img2.png)  
-![Live View](imgs/img3.png)
-
 ## 💡 Additional Notes
 
 - The dashboard fetches real-time data from MongoDB.  
