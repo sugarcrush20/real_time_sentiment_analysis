@@ -65,6 +65,7 @@ for message in consumer:
         "prediction": class_index_mapping[int(prediction)]
     }
 
+
     collection.insert_one(tweet_doc)
 
     print("/"*50)

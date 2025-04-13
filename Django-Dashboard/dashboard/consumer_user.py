@@ -9,6 +9,7 @@ spark = SparkSession.builder \
     .appName("classify tweets") \
     .getOrCreate()
 
+
 pipeline = PipelineModel.load("logistic_regression_model.pkl")
 
 def clean_text(text):

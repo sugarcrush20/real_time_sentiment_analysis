@@ -12,8 +12,6 @@ This project demonstrates a real-time sentiment analysis system built around Twi
 - **Django** – Web framework for dashboard visualization  
 - **Chart.js & Matplotlib** – For plotting data on the dashboard  
 
-![Project Architecture](imgs/flow.png)
-
 ## ✨ Key Features
 
 - **Live Tweet Ingestion**: Stream tweets using Kafka from a dataset  
